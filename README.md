@@ -1,0 +1,2 @@
+# RegisteredDetailSignUp
+Verifying error message
